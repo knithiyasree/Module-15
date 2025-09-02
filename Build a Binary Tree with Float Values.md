@@ -13,13 +13,6 @@ To Debug a Python program to build a binary search tree using a built in functio
 ---
 
 ## ALGORITHM:
-
-Here you go in clean **copy format** 👇
-
----
-
-**Algorithm**
-
 1. Start the program.
 2. Import the `Node` class from the `binarytree` module.
 3. Define functions to build a BST from a sorted list, insert a new value, and display the BST.
