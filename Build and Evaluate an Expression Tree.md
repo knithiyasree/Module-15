@@ -22,12 +22,19 @@ To write a Python program to build and evaluate the given Expression tree.
 ## PROGRAM:
 
 ```
-WRITE YOUR CODE
+from binarytree import build
+x=['/','*','+',"+",4,'-',2,3,1,None,None,9,5,None,None]
+exp=build(x)
+print(exp.inorder)
+print(exp.postorder)
 ```
 
 ## OUTPUT:
 ```
+<img width="1178" height="192" alt="image" src="https://github.com/user-attachments/assets/8004cde0-31cc-4d58-ac85-b292034665a9" />
+
 ```
 
 ## RESULT:
+Thus a Python program to build and evaluate the given Expression tree has been executed successfully.
 
