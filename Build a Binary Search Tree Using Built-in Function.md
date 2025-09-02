@@ -46,10 +46,10 @@ print(l.is_bst)
 ```
 
 ## OUTPUT
-```
+
 <img width="1290" height="492" alt="image" src="https://github.com/user-attachments/assets/2a9de994-8e5b-4ef8-bdc7-c018ca18c7ef" />
 
-```
+
 
 ## RESULT:
 Thus a Python program to build a binary search tree using a built-in function has been executed sucessfully.
