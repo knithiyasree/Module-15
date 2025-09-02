@@ -31,7 +31,7 @@ print(exp.postorder)
 
 ## OUTPUT:
 ```
-<img width="1178" height="192" alt="image" src="https://github.com/user-attachments/assets/8004cde0-31cc-4d58-ac85-b292034665a9" />
+<img width="1179" height="193" alt="Screenshot 2025-09-02 202416" src="https://github.com/user-attachments/assets/113d9e2f-16c8-4d1a-b2e1-19cd2a088561" />
 
 ```
 
